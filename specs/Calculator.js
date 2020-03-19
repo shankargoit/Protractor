@@ -35,5 +35,35 @@ it('this is addition3 of calc',function(){
 
 });
 
+it('this is addition3 of calc',function(){
+
+    homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
+    homepage.enterFirstNumber('5');
+    homepage.enterSecondNumber('5');
+    homepage.clickOnGoButton1();
+    homepage.verifytheOutput('10');
+
+});
+
+it('this is addition3 of calc',function(){
+
+    homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
+    homepage.enterFirstNumber('5');
+    homepage.enterSecondNumber('5');
+    homepage.clickOnGoButton1();
+    homepage.verifytheOutput('10');
+
+});
+
+it('this is addition3 of calc',function(){
+
+    homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
+    homepage.enterFirstNumber('5');
+    homepage.enterSecondNumber('5');
+    homepage.clickOnGoButton();
+    homepage.verifytheOutput('10');
+
+});
+
 
 });
