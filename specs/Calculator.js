@@ -35,7 +35,7 @@ it('this is addition3 of calc',function(){
 
 });
 
-it('this is addition3 of calc',function(){
+it('this is addition4 of calc',function(){
 
     homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
     homepage.enterFirstNumber('5');
@@ -45,7 +45,7 @@ it('this is addition3 of calc',function(){
 
 });
 
-it('this is addition3 of calc',function(){
+it('this is addition5 of calc',function(){
 
     homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
     homepage.enterFirstNumber('5');
@@ -55,7 +55,7 @@ it('this is addition3 of calc',function(){
 
 });
 
-it('this is addition3 of calc',function(){
+it('this is addition6 of calc',function(){
 
     homepage.getBrowser('https://juliemr.github.io/protractor-demo/');
     homepage.enterFirstNumber('5');
