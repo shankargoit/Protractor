@@ -11,6 +11,8 @@ it('this is addition of calc',function(){
     homepage.clickOnGoButton();
     homepage.verifytheOutput('10');
     homepage.verifytheOutput('10');
+
+    homepage.verifytheOutput('100');
     homepage.verifytheOutput('10');
     homepage.verifytheOutput('10');
 
